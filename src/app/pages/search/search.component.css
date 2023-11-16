@@ -1,0 +1,16 @@
+button{
+     color: red;
+     border-color: red;
+}
+
+button:hover{
+     background-color: chartreuse;
+     color: black;
+}
+img{
+     width: 100%;
+
+}
+h5{
+     color: #ffffff;
+}
